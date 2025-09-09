@@ -1,7 +1,7 @@
-export const Products = () => {
-  return (
-    <div>
-      {/* content */}
-    </div>
-  );
-};
+export default function Products() {
+    return (
+        <nav>
+            <div> Products </div>
+        </nav>
+    );
+    };
