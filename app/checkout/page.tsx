@@ -15,7 +15,7 @@ export default function Checkout() {
     return (
       <div className="container mx-auto px-5 py-8 text-center">
         {" "}
-        <h1 className="text-3xl font-bold mb-4"> Your Cart Is Empty.</h1>
+        <h1 className="text-3xl font-bold mb-4"> Your cart is empty.</h1>
       </div>
     );
   }
