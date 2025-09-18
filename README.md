@@ -1,7 +1,6 @@
 # 💎 Luxotica - Luxury Jewellery Shop
 
-A modern, elegant e-commerce platform for luxury jewellery built with Next.js, TypeScript, and Stripe integration.
-
+A modern, elegant, and high-performance e-commerce platform designed for luxury jewellery, built with Next.js and TypeScript. It combines sleek design with seamless functionality, offering a refined shopping experience that highlights the exclusivity and craftsmanship of high-end pieces. With a focus on both aesthetics and usability, the platform provides a polished user journey—from product discovery and detailed item showcases to effortless checkout—making it ideal for premium jewellery brands looking to elevate their online presence.
 
 ## 🌟 Features
 
@@ -11,6 +10,13 @@ A modern, elegant e-commerce platform for luxury jewellery built with Next.js, T
 - **State Management**: Zustand for efficient cart management
 - **Type Safety**: Built with TypeScript for robust code
 - **Performance**: Optimized with Next.js 15 and Turbopack
+
+## 🌟 Showcase
+
+<img src="./public/view3.png" height={100} width={100}/>
+<img src="./public/view1.png" height={100} width={100}/>
+<img src="./public/view2.png" height={100} width={100}/>
+
 
 ## 🚀 Quick Start
 
@@ -174,13 +180,4 @@ Remember to set these in your deployment platform:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 💖 Acknowledgments
-
-- Next.js team for the amazing framework
-- Stripe for payment infrastructure
-- All contributors and supporters
-
 ---
-
-**Luxotica** - Where luxury meets reality and perfection ✨
