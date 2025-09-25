@@ -2,6 +2,35 @@
 
 A modern, elegant, and high-performance e-commerce platform designed for luxury jewellery, built with Next.js and TypeScript. It combines sleek design with seamless functionality, offering a refined shopping experience that highlights the exclusivity and craftsmanship of high-end pieces. With a focus on both aesthetics and usability, the platform provides a polished user journey—from product discovery and detailed item showcases to effortless checkout—making it ideal for premium jewellery brands looking to elevate their online presence.
 
+## 🛠️ Built With
+
+<div align="center">
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://typescriptlang.org">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/node.js-026E00?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://stripe.com/">
+    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  </a>
+  <a href="https://zustand-demo.pmnd.rs/">
+    <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  </a>
+  <a href="https://www.radix-ui.com/">
+    <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+  </a>
+</div>
+
 ## 🌟 Features
 
 - **Modern UI/UX**: Clean, responsive design built with Tailwind CSS
@@ -87,35 +116,6 @@ jewellery-shop/
 ├── public/              # Static assets
 └── ...config files      # Various configuration files
 ```
-
-## 🛠️ Built With
-
-<div align="center">
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  </a>
-  <a href="https://typescriptlang.org">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/node.js-026E00?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <a href="https://stripe.com/">
-    <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  </a>
-  <a href="https://zustand-demo.pmnd.rs/">
-    <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  </a>
-  <a href="https://www.radix-ui.com/">
-    <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
-  </a>
-</div>
 
 ## 💳 Stripe Integration
 
